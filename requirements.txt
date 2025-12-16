@@ -5,4 +5,4 @@ gradio
 Pillow
 scikit-learn
 tqdm
-matplotli
+matplotlib
